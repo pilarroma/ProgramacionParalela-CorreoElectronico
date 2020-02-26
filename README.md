@@ -1,4 +1,4 @@
-# Programa: Correo Electronico
+# Programa: Correo Electrónico
 
 Asignatura: Programación Paralela. 
 
